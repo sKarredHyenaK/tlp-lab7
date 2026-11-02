@@ -1,0 +1,9 @@
+/* Estilos personalizados para ComunidadConecta */
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
+
+.card {
+    border-top: 4px solid #0d6efd !important;
+}
